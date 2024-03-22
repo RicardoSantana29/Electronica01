@@ -1,0 +1,11 @@
+VD,VG,VS,RD,VDS,ID,parte
+2.6,0,2.2,6300,0.4,0.001492063,Polarizacion del JFET canal n.
+2.6,0,2.2,6300,0.4,0.001492063,Variacion +0V en la Polarizacion
+2.7,0,2.2,6300,0.5,0.00147619,Variacion +0.1V en la Polarizacion
+2.8,0,2.4,6300,0.4,0.001460317,Variacion +0.2V en la Polarizacion
+2.9,0,2.4,6300,0.5,0.001444444,Variacion +0.3V en la Polarizacion
+3,0,2.5,6300,0.5,0.001428571,Variacion +0.4V en la Polarizacion
+3.1,0,2.6,6300,0.5,0.001412698,Variacion +0.5V en la Polarizacion
+3.2,0,2.8,6300,0.4,0.001396825,Variacion +0.6V en la Polarizacion
+3.3,0,2.8,6300,0.5,0.001380952,Variacion +0.7V en la Polarizacion
+3.4,0,2.8,6300,0.6,0.001365079,Variacion +0.8V en la Polarizacion
